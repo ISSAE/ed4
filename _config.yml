@@ -1,0 +1,19 @@
+remote_theme: ISSAE/architect
+
+name: Programmation Avancée ED3
+
+author: Pascal Fares
+
+author_email: pascal.fares@isae.edu.lb
+
+title: Généricité et collections
+description: Programmation Avancée et Patron de conception en Java
+
+google_analytics: UA-29708002-2
+
+repository: ISSAE/nfp121.ed4
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
